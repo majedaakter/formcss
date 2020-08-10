@@ -1,0 +1,44 @@
+body {
+    background-color: cadetblue;
+}
+
+div {
+    border: 6px solid cornsilk;
+    background-color: darkgrey;
+    height: 100px;
+    width: 200px;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-bottom: 400px;
+    margin-right: 400px;
+}
+
+fieldset {
+    background-color: darkgrey;
+    padding: 20px 10px 20px 10px;
+}
+
+legend {
+    border: 3px solid pink;
+}
+
+h1 {
+    background-color: skyblue;
+}
+
+label {
+    color: red;
+    border: 10px red;
+}
+
+img {
+    border: 5px salmon;
+}
+
+button {
+    background-color: slategrey;
+}
+
+.one {
+    background-color: violet;
+}
